@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1063389178098",
+    "project_id": "planthelper-f8234",
+    "storage_bucket": "planthelper-f8234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063389178098:android:77662b1400fa27d60a886b",
+        "android_client_info": {
+          "package_name": "info.khattak.hasan.plantHelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063389178098-0riaond9g4rh515hqs9b3e5idu48j2g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgqqA47EXpkPZgqg1JwHbEMzHFfB_FD70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063389178098-0riaond9g4rh515hqs9b3e5idu48j2g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

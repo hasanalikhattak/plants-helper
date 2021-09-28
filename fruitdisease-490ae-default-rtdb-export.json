@@ -1,0 +1,79 @@
+{
+  "info" : {
+    "Test" : {
+      "test" : {
+        "Insecticide" : {
+          "-Mjgz2Dbf6bJyf8QaZrS" : {
+            "chosenTreatment" : "Insecticide",
+            "dateTime" : 1631768556460,
+            "detectedDisease" : "test",
+            "farmerID" : "eb5100c92442daee",
+            "fruitName" : "Test",
+            "latitude" : 28.4228448,
+            "longitude" : 70.3206632,
+            "treatmentDate" : 1631768521814,
+            "treatmentSatisfactionRating" : 0.5
+          },
+          "-MjgzBYRubl5rxkpkb6b" : {
+            "chosenTreatment" : "Insecticide",
+            "dateTime" : 1631768594669,
+            "detectedDisease" : "test",
+            "farmerID" : "eb5100c92442daee",
+            "fruitName" : "Test",
+            "latitude" : 28.6228448,
+            "longitude" : 70.3206632,
+            "treatmentDate" : 1631768521814,
+            "treatmentSatisfactionRating" : 2
+          }
+        },
+        "Pesticide" : {
+          "-MjgyysLi2XrJL4UQxbl" : {
+            "chosenTreatment" : "Pesticide",
+            "dateTime" : 1631768538675,
+            "detectedDisease" : "test",
+            "farmerID" : "eb5100c92442daee",
+            "fruitName" : "Test",
+            "latitude" : 31.4826352,
+            "longitude" : 74.0542001,
+            "treatmentDate" : 1631768521814,
+            "treatmentSatisfactionRating" : 0.5
+          }
+        }
+      }
+    },
+    "juhw" : {
+      "ookk" : {
+        "Insecticide" : {
+          "-MjhxiDUIR7qrTtv-0bC" : {
+            "chosenTreatment" : "Insecticide",
+            "dateTime" : 1631784985513,
+            "detectedDisease" : "ookk",
+            "farmerID" : "eb5100c92442daee",
+            "fruitName" : "juhw",
+            "latitude" : 28.4228435,
+            "longitude" : 70.320662,
+            "treatmentDate" : 1631732400000,
+            "treatmentSatisfactionRating" : 2
+          }
+        }
+      }
+    },
+    "yshs" : {
+      "hshs" : {
+        "Insecticide" : {
+          "-MjhxduYGiG_7UvZEI2Q" : {
+            "chosenTreatment" : "Insecticide",
+            "dateTime" : 1631784967881,
+            "detectedDisease" : "hshs",
+            "farmerID" : "eb5100c92442daee",
+            "fruitName" : "yshs",
+            "latitude" : 28.4228435,
+            "longitude" : 70.320662,
+            "treatmentDate" : 1631732400000,
+            "treatmentSatisfactionRating" : 0.5
+          }
+        }
+      }
+    }
+  }
+}
